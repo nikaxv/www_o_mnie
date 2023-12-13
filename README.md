@@ -1,2 +1,2 @@
 # www_o_mnie
-**Strona o Nathanielu
+**Strona o Nathanielu**
